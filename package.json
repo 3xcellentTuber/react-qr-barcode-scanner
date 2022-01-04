@@ -1,3 +1,27 @@
+
+Skip to content
+Sign up
+jamenamcinteer /
+react-qr-barcode-scanner
+Public
+
+Code
+Issues 7
+Pull requests 1
+Actions
+Security
+
+    Insights
+
+react-qr-barcode-scanner/package.json
+@jamenamcinteer
+jamenamcinteer Update README and bump version
+Latest commit 02ff30d on 9 Apr 2021
+History
+2 contributors
+@phillytan
+@jamenamcinteer
+50 lines (50 sloc) 1.31 KB
 {
   "name": "react-qr-barcode-scanner",
   "version": "1.0.6",
@@ -32,19 +56,35 @@
   },
   "homepage": "https://github.com/3xcellentTuber/react-qr-barcode-scanner#readme",
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^17.0.3",
+    "react-dom": "^17.0.3"
   },
   "dependencies": {
-    "@types/react": "^17.0.38",
-    "@zxing/library": "^0.18.6",
-    "react-webcam": "^6.0.0"
+    "@types/react": "^16.9.35",
+    "@zxing/library": "^0.17.0",
+    "react-webcam": "^5.0.1"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.9.0",
-    "@typescript-eslint/parser": "^5.9.0",
-    "eslint": "^8.6.0",
-    "eslint-plugin-react": "^7.28.0",
-    "typescript": "^4.5.4"
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.20.0",
+    "typescript": "^3.9.2"
   }
 }
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
