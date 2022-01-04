@@ -1,27 +1,3 @@
-
-Skip to content
-Sign up
-jamenamcinteer /
-react-qr-barcode-scanner
-Public
-
-Code
-Issues 7
-Pull requests 1
-Actions
-Security
-
-    Insights
-
-react-qr-barcode-scanner/package.json
-@jamenamcinteer
-jamenamcinteer Update README and bump version
-Latest commit 02ff30d on 9 Apr 2021
-History
-2 contributors
-@phillytan
-@jamenamcinteer
-50 lines (50 sloc) 1.31 KB
 {
   "name": "react-qr-barcode-scanner",
   "version": "1.0.6",
@@ -72,19 +48,3 @@ History
     "typescript": "^3.9.2"
   }
 }
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
